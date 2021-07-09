@@ -2,12 +2,8 @@
 
 
 
-- 🔭 I’m currently working on ... Ceylanco Tech(Pvt)Ltd
-- 🌱 I’m currently learning ... Flutter Mobile App development
-- 👯 I’m looking to collaborate on ... Mobile app development
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on 💻 Ceylanco Tech(Pvt)Ltd
+- 🌱 I’m currently learning Flutter, React Native  Mobile App development
+- 👯 I’m looking to collaborate on 📲 Mobile app development
+- 💬 Ask me about 💻 Web and 📲 Mobile Development 
 
