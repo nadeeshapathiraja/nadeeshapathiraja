@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**nadeeshapathiraja/nadeeshapathiraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Ceylanco Tech(Pvt)Ltd
 - 🌱 I’m currently learning ... Flutter Mobile App development
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
