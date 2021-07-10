@@ -54,16 +54,16 @@
 
 
 
-<a href="https://github.com/nadeeshapathiraja">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/nadeeshapathiraja">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
 
-![Nadeesha Pathiraja's github stats](https://github-readme-stats.vercel.app/api?username=nadeeshapathiraja&show_icons=true&theme=dracula)<br/>
 
 <div align="center">
+  <br><br>
+  <a  href="https://github.com/nadeeshapathiraja">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeeshapathiraja&theme=light&hide_langs_below=1" />
+</a>
+
+
+![Nadeesha Pathiraja's github stats](https://github-readme-stats.vercel.app/api?username=nadeeshapathiraja&show_icons=true&theme=dracula)<br/>
 
 ### Show some ❤️ by starring some of the repositories!
 
