@@ -1,14 +1,14 @@
 ### Hi!!!.. I'm [Nadeesha Pathiraja!](https://techswords.com/about-us/) 👋
 
 
-[<img align="center" width="100%" src="https://github.com/nadeeshapathiraja/nadeeshapathiraja.git/cover.jpg" />]
-
+![alt text](https://github.com/nadeeshapathiraja/nadeeshapathiraja/blob/main/cover.jpg)
+<br>
 - 🔭 I’m currently working on 💻 Ceylanco Tech(Pvt)Ltd
 - 🌱 I’m currently learning Flutter, React Native  Mobile App development
 - 👯 I’m looking to collaborate on 📲 Mobile app development
 - 💬 Ask me about 💻 Web and 📲 Mobile Development 
 
-![alt text](https://github.com/nadeeshapathiraja/nadeeshapathiraja.git/cover.jpg)
+
 
 
 <br />
@@ -38,7 +38,6 @@
 [<img align="left" alt="Nadeesha Pathiraja | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Nadeesha Pathiraja | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nadeesha Pathiraja | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
-![Danushka's github stats](https://github-readme-stats.vercel.app/api?username=danushka96&show_icons=true&theme=dracula)<br/>
 
 
 [website]: http://techswords.com/
