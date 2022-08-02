@@ -46,6 +46,9 @@
 [Facebook]: https://www.facebook.com/profile.php?id=100010308797680
 
 
+<br/><br/>
+![Nadeesha's github stats](https://github-readme-stats.vercel.app/api?username=nadeeshapathiraja&show_icons=true&theme=dracula)<br/>
+
 
 
 
