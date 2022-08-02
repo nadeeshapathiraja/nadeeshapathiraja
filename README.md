@@ -46,7 +46,11 @@
 [Facebook]: https://www.facebook.com/profile.php?id=100010308797680
 
 
-
+<div align="center">
+  <br><br>
+  <a  href="https://github.com/nadeeshapathiraja">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=nadeeshapathiraja&theme=light&hide_langs_below=1" />
+</a>
 
 
 ![Nadeesha Pathiraja's github stats](https://github-readme-stats.vercel.app/api?username=nadeeshapathiraja&show_icons=true&theme=dracula)<br/>
